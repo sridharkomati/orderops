@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: venuchowgani/orderapp:dev_10
+          image: venuchowgani/orderapp:dev_5
           ports:
             - containerPort: 80
           resources:
