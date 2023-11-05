@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: batchusivaji/argorepo:dev_9
+          image: batchusivaji/argorepo:dev_10
           ports:
             - containerPort: 80
           resources:
