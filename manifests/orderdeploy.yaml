@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: batchusivaji/argocd:dev_2
+          image: sridhar006/argo:dev_2
           ports:
             - containerPort: 80
           resources:
